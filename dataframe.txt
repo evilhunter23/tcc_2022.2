@@ -1,0 +1,1 @@
+Existem diversas fontes e APIs na internet de onde podem ser obtidos os dados do mercado financeiro. As funções “datareader” da biblioteca Pandas possuem suporte a algumas dessas APIs de finanças, que ao serem lidas são transformadas em um tipo específico de dataset da biblioteca Pandas, chamado de DataFrame.

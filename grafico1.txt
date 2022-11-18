@@ -1,0 +1,1 @@
+O gráfico mais utilizado para representar ações na bolsa é o OHLC, onde em vermelho temos o preço fechando em queda e em verde fechando em alta, o gráfico mostra também os valores de abertura, alta, baixa e fechamento 

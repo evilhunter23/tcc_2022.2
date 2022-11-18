@@ -1,0 +1,1 @@
+Ao serem observadas as linhas que comparam os valores de fechamento de teste com os valores de fechamento que foram previstos, é possível visualizar com facilidade a proximidade dos valores reais, com os valores previstos, o que permite avaliar se as previsões feitas pelo modelo estão boas, ou não.
